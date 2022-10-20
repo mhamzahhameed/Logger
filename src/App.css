@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  background-color: #cccccc;
+  padding: 1rem;
+}
+
+.navbar li {
+  display: inline;
+  cursor: pointer;
+  list-style-type: none;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}

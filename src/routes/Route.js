@@ -1,0 +1,12 @@
+const HOMEROUTE = "/";
+const ABOUTROUTE = "/about";
+const PRODUCTROUTE = "/product";
+const PRODUCTHOMEROUTE = "/product/";
+const PRODUCTDETAILSROUTE = ":id";
+export {
+  HOMEROUTE,
+  ABOUTROUTE,
+  PRODUCTROUTE,
+  PRODUCTHOMEROUTE,
+  PRODUCTDETAILSROUTE,
+};
